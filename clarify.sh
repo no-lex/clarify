@@ -9,6 +9,11 @@
 # has been resolved as of 9.26 (default for 18.04) but still needs to be enabled in
 # imagemagick settings (located at /etc/ImageMagick-6/policy.yml in 18.04)
 
+# ==== Dependencies ====
+
+# ghostscript >= v9.24
+# imagemagick >= v6
+
 # ==== Settings ====
 
 # input files
